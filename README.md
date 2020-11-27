@@ -1,6 +1,6 @@
 # Efficient Attention
 
-The repository of ECCV 2020 paper [Fast Video Object Segmentation using the Global Context Module](https://arxiv.org/abs/2001.11243). **Source code release is pending patent application.**
+The repository of ECCV 2020 paper [Fast Video Object Segmentation using the Global Context Module](https://arxiv.org/abs/2001.11243). **Source code release is pending approval.**
 
 ## Description
 
